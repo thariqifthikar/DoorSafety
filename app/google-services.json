@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048226983040",
+    "firebase_url": "https://door-safety-e9e99-default-rtdb.firebaseio.com",
+    "project_id": "door-safety-e9e99",
+    "storage_bucket": "door-safety-e9e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048226983040:android:5072987e2fcf8673bc4a65",
+        "android_client_info": {
+          "package_name": "com.codehavok.doorsafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048226983040-39mvmmecjro57bv2c32l5e675v4hujd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAeOanpo-sfw8Bf6QOxJtkVASlSnmO95M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048226983040-39mvmmecjro57bv2c32l5e675v4hujd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
